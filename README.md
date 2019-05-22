@@ -54,3 +54,9 @@ LIST OF ONLINE COOL PEOPLE
 **Jeff Bezos** (Amazon)
 
 **Reid Hoffman** (Linkedin)
+
+LIST OF OFFLINE COOL PEOPLE
+=======
+**MeiHong Wang**, (Engineering Director)
+- surprisingly fast 7 years career to go from entry level to manager of 780 people
+- [linkedin](https://www.linkedin.com/in/meihong/)
