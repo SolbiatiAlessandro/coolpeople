@@ -57,6 +57,10 @@ LIST OF ONLINE COOL PEOPLE
 
 LIST OF OFFLINE COOL PEOPLE
 =======
-**MeiHong Wang**, (Engineering Director)
+**MeiHong Wang**, (Facebook, Engineering Director)
 - surprisingly fast 7 years career to go from entry level to manager of 780 people
 - [linkedin](https://www.linkedin.com/in/meihong/)
+
+**Fidji Simo**, (Facebook, Head of Facebook App)
+- 8 years career to head of facebook app
+- [linkedin](https://www.linkedin.com/in/fidjisimo/)
