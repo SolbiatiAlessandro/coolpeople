@@ -64,3 +64,6 @@ LIST OF OFFLINE COOL PEOPLE
 **Fidji Simo**, (Facebook, Head of Facebook App)
 - 8 years career to head of facebook app
 - [linkedin](https://www.linkedin.com/in/fidjisimo/)
+
+**Lars Rasmussen**, (ex Facebook Engineering Director, the guy who built Google Maps outside google)
+- [linkedin](https://www.linkedin.com/in/larserasmussen/)
