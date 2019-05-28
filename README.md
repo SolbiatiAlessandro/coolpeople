@@ -37,6 +37,10 @@ LIST OF ONLINE COOL PEOPLE
 - extremely innovative thinker that is building this extremely promising numerai
 - [twitter](https://twitter.com/richardcraib)
 
+**Geoffrey Bradway** (ex-DeepMind SWE, numer,ai CTO)
+- his master thesis sounds insanely interesting https://drive.google.com/file/d/0B9P7l7NlD9FkVTYyZUtTQ2pWMFk/view
+- [linkedin](https://www.linkedin.com/in/geoffrey-bradway-68115683/)
+
 **Ian Goodfellow** (DeepLearning person) 
 
 **Yann LeCunn** (Facebook AI Research director) 
