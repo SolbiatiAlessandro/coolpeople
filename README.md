@@ -41,6 +41,10 @@ LIST OF ONLINE COOL PEOPLE
 - his master thesis sounds insanely interesting https://drive.google.com/file/d/0B9P7l7NlD9FkVTYyZUtTQ2pWMFk/view
 - [linkedin](https://www.linkedin.com/in/geoffrey-bradway-68115683/)
 
+**Joey Krug** (Peter Thiel fellow, founder of https://www.augur.net/)
+- is a relatively famous guy in the crypto world, actually has some interesting idea.
+- [linkedin](https://www.linkedin.com/in/joeykrug/)
+
 **Ian Goodfellow** (DeepLearning person) 
 
 **Yann LeCunn** (Facebook AI Research director) 
