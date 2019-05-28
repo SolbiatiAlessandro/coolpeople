@@ -33,6 +33,10 @@ LIST OF ONLINE COOL PEOPLE
 - cool because of his podcast on Artificial General Intelligence where he interview most of interesting AI people, from Y. Benjo to Elon Musk
 - [podcast](https://lexfridman.com/ai/)
 
+**Richard Craib** (founder https://numer.ai/homepage)
+- extremely innovative thinker that is building this extremely promising numerai
+- [twitter](https://twitter.com/richardcraib)
+
 **Ian Goodfellow** (DeepLearning person) 
 
 **Yann LeCunn** (Facebook AI Research director) 
