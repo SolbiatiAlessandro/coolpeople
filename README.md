@@ -67,3 +67,7 @@ LIST OF OFFLINE COOL PEOPLE
 
 **Lars Rasmussen**, (ex Facebook Engineering Director, the guy who built Google Maps outside google)
 - [linkedin](https://www.linkedin.com/in/larserasmussen/)
+
+**Martin Six** (led the whole 1 stack initiative alone in facebook)
+
+**karandeep anend** (vp of workplace)
