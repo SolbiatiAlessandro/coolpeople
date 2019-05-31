@@ -59,6 +59,7 @@ LIST OF ONLINE COOL PEOPLE
  ("A recipe for training neural networks" http://karpathy.github.io/2019/04/25/recipe/)
  - also he has a good profile pic on linkedin; Quite rare among the ppl who like to train deep neural nets on large datasets
  [linkedin] https://www.linkedin.com/in/andrej-karpathy-9a650716/ ; 
+ - he gives advice: https://cs.stanford.edu/people/karpathy/advice.html
 
 **Sam Altman** (Y Combinator)
 
