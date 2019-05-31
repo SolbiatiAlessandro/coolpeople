@@ -55,11 +55,11 @@ LIST OF ONLINE COOL PEOPLE
 
 **Andrej Karpathy** (Tesla head of AI)
 - he is funny 
-  quote to support this: "hyper-parameter optimization. There is a large number of fancy bayesian hyper-parameter optimization toolboxes around and a few of my friends have also reported success with them, but my personal experience is that the state of the art approach to exploring a nice and wide space of models and hyperparameters is to use an intern :)"
+  |quote to support this: "hyper-parameter optimization. There is a large number of fancy bayesian hyper-parameter optimization toolboxes around and a few of my friends have also reported success with them, but my personal experience is that the state of the art approach to exploring a nice and wide space of models and hyperparameters is to use an intern :)"
  ("A recipe for training neural networks" http://karpathy.github.io/2019/04/25/recipe/)
  - also he has a good profile pic on linkedin; Quite rare among the ppl who like to train deep neural nets on large datasets
  [linkedin] https://www.linkedin.com/in/andrej-karpathy-9a650716/ ; 
- - he gives advice: https://cs.stanford.edu/people/karpathy/advice.html
+ - he gives advice: https://cs.stanford.edu/people/karpathy/advice.html (smth new form here: you should study really hard before an exam (30, 45 min before) to make use of the short term memory)
 
 **Sam Altman** (Y Combinator)
 
