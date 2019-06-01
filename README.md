@@ -88,4 +88,13 @@ LIST OF OFFLINE COOL PEOPLE
 
 **Martin Six** (led the whole 1 stack initiative alone in facebook)
 
-**karandeep anend** (vp of workplace)
+**Karandeep Anend** (Facebook, VP of workplace)
+
+**Ivan Ivanov** (Facebook, Abusive Account Response EM)
+- [linkedin](https://uk.linkedin.com/in/ivan-ivanov-83a13517)
+- incredibily fast career E3 -> (2 ys) E5 -> (2ys) M0
+- amazing technical blog https://ivanovivan.wordpress.com/about/
+- recommend this [following lectures on algorithms](https://ivanovivan.wordpress.com/2010/08/03/project-sicp-the-rationale/) (simlar to CLRS) on the blog 
+- on his blog has article on how to build computer from scratch!
+- on his blog has quote of cool peoples!
+
