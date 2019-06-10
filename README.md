@@ -88,13 +88,27 @@ LIST OF OFFLINE COOL PEOPLE
 
 **Martin Six** (led the whole 1 stack initiative alone in facebook)
 
-**Karandeep Anend** (Facebook, VP of workplace)
+**Karandeep Anand** (Facebook, VP of workplace)
+- [linkedin](https://www.linkedin.com/in/karandeep/)
 
 **Ivan Ivanov** (Facebook, Abusive Account Response EM)
 - [linkedin](https://uk.linkedin.com/in/ivan-ivanov-83a13517)
-- incredibily fast career E3 -> (2 ys) E5 -> (2ys) M0
+- fast career E3 -> (2 ys) E5 -> (2ys) M0
 - amazing technical blog https://ivanovivan.wordpress.com/about/
 - recommend this [following lectures on algorithms](https://ivanovivan.wordpress.com/2010/08/03/project-sicp-the-rationale/) (simlar to CLRS) on the blog 
 - on his blog has article on how to build computer from scratch!
 - on his blog has quote of cool peoples!
+
+**Edward Grefenette** (Facebook, AI Research London, prev DeepMind)
+- [linkedin](https://www.linkedin.com/in/egrefen/)
+- Worked 4 years at deep mind and then joined facebook)
+
+**Sebastian Riedel** (Facebook, AI Research Manager London, prev Bloomsbury AI)
+- [linkedin](https://www.linkedin.com/in/riedel/)
+- Cofounded bloomsbury AI, (NLP firm) that was later bought by facebook london and they hired him
+- He is the biggest AI guy in Facebook London
+
+
+
+
 
