@@ -73,6 +73,10 @@ LIST OF ONLINE COOL PEOPLE
 
 **Reid Hoffman** (Linkedin)
 
+**Vitalik Buterin** (Ethereum)
+- he came up with the idea of Ethereum at age ~20 + recieved Thiel Scholarship
+- totally check out his youtube video, he really operate like a machine
+
 LIST OF OFFLINE COOL PEOPLE
 =======
 **MeiHong Wang**, (Facebook, Engineering Director)
