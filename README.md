@@ -112,6 +112,22 @@ LIST OF OFFLINE COOL PEOPLE
 - Cofounded bloomsbury AI, (NLP firm) that was later bought by facebook london and they hired him
 - He is the biggest AI guy in Facebook London
 
+**Zheqing(Bill) Zhu** (Facebook, Tech Lead on Ads Growth Science in MPK)
+- tries really interesting RL experiment inside his team
+- pretty impressive linkedin, graduated at 20 and did part time master in Stanford while working
+- [linkedin](https://www.linkedin.com/in/zheqingzhubill/)
+
+**Edoardo Conti** (Facebook, senior ML engineer MPK)
+- [linkedin](https://www.linkedin.com/in/edoardoconti/)
+- coauthored horizon paper https://code.fb.com/ml-applications/horizon, best ICML paper 2019
+- young, interesting career to ML engineer, Uber -> Facebook (not italian)
+
+**Zhengxing Chen** (Facebook, ML research scientisti)
+- made a really crazy result of increasing instagram post consumption by 4% using RL
+(he even put that as a profile image)
+- often publish interesting stuff on workplace + coauthor of horizon paper (See Edoardo Conti)
+- [linkedin](https://www.linkedin.com/in/zhengxing-chen-1797464b/)
+
 
 
 
