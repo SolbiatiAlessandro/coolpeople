@@ -130,7 +130,7 @@ LIST OF OFFLINE COOL PEOPLE
 
 **Alex Peysakhovich** (Facebook, ex AML Facebook Feed, now FAIR)
 -  Alex is famous on feed as he worked on News Feed ranking many years ago and was a pioneering feed data scientist before ascending to the ranks of AI researchers and moving to FAIR in NYC, publishing widely in the intersection of economics and ML
-- [personal website] (http://alexpeys.github.io/)
+- [personal website](http://alexpeys.github.io/)
 
 
 
