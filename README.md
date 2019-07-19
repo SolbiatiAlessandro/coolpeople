@@ -128,6 +128,10 @@ LIST OF OFFLINE COOL PEOPLE
 - often publish interesting stuff on workplace + coauthor of horizon paper (See Edoardo Conti)
 - [linkedin](https://www.linkedin.com/in/zhengxing-chen-1797464b/)
 
+**Alex Peysakhovich** (Facebook, ex AML Facebook Feed, now FAIR)
+-  Alex is famous on feed as he worked on News Feed ranking many years ago and was a pioneering feed data scientist before ascending to the ranks of AI researchers and moving to FAIR in NYC, publishing widely in the intersection of economics and ML
+- [personal website] (http://alexpeys.github.io/)
+
 
 
 
