@@ -77,6 +77,11 @@ LIST OF ONLINE COOL PEOPLE
 - he came up with the idea of Ethereum at age ~20 + recieved Thiel Scholarship
 - totally check out his youtube video, he really operate like a machine
 
+**mbchang** (CS294 Berkely PhD)
+- Grad Stud assistant of CS294 Deep RL
+- have a intersting reading list, and a lot of links to other famous ppl reading lists
+- [personal website](http://mbchang.github.io/)
+
 LIST OF OFFLINE COOL PEOPLE
 =======
 **MeiHong Wang**, (Facebook, Engineering Director)
