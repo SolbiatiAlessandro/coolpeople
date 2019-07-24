@@ -137,6 +137,12 @@ LIST OF OFFLINE COOL PEOPLE
 -  Alex is famous on feed as he worked on News Feed ranking many years ago and was a pioneering feed data scientist before ascending to the ranks of AI researchers and moving to FAIR in NYC, publishing widely in the intersection of economics and ML
 - [personal website](http://alexpeys.github.io/)
 
+**Sebastian Wong** (Facebook, SWE)
+- Went from E3 -> E5 in 1 year (2 halves)
+- FWIW, my background before joining: 2 years of college for CS -> drop out to work at startup for 11 months -> joined facebook.
+- [linkedin](https://www.linkedin.com/in/wongsebastian/)
+
+
 
 
 
