@@ -82,6 +82,10 @@ LIST OF ONLINE COOL PEOPLE
 - have a intersting reading list, and a lot of links to other famous ppl reading lists
 - [personal website](http://mbchang.github.io/)
 
+**Anad agarawala** (30$m company bought by google)
+- [linkedin](https://www.linkedin.com/in/anandx/)
+- built company, bought by google, after 4 years at google new company
+
 LIST OF OFFLINE COOL PEOPLE
 =======
 **MeiHong Wang**, (Facebook, Engineering Director)
