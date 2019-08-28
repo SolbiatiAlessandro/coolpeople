@@ -130,6 +130,7 @@ LIST OF OFFLINE COOL PEOPLE
 - [linkedin](https://www.linkedin.com/in/edoardoconti/)
 - coauthored horizon paper https://code.fb.com/ml-applications/horizon, best ICML paper 2019
 - young, interesting career to ML engineer, Uber -> Facebook (not italian)
+- he is quitting facebook, check what he does afterward
 
 **Zhengxing Chen** (Facebook, ML research scientisti)
 - made a really crazy result of increasing instagram post consumption by 4% using RL
