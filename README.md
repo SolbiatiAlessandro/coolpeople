@@ -3,9 +3,9 @@ Generic purpose collection of cool people, organized by category
 let's try to follow a format, the more obvious who is the person the less explaination needed
 
 Cool Person:
-- < Name> (< Title>)
-- < description>
-- < links>
+- < Name > (< Title>)
+- < description >
+- < links >
 
 Some ideas:
 1. let's put a coolnes rate next to each other, rigorously in the same format so that later we can parse and make queries
@@ -85,6 +85,16 @@ LIST OF ONLINE COOL PEOPLE
 **Anad agarawala** (30$m company bought by google)
 - [linkedin](https://www.linkedin.com/in/anandx/)
 - built company, bought by google, after 4 years at google new company
+
+**Tim Ferris**
+- nice podcast
+
+**Tim Urban**
+- blog is ok, but he has a nice way of thinking
+- https://youtu.be/7a9lsGtVziM
+
+**Brian Chesky**
+- AirBnB founder, super interesting that he is not a technical founder
 
 LIST OF OFFLINE COOL PEOPLE
 =======
